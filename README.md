@@ -1,0 +1,1 @@
+# humhub_autoinstall
